@@ -1,4 +1,4 @@
-# CSAT-Math-Challenge
+# Korean CSAT Math
 
 ## Project Introduction
 This repository is dedicated to solving mathematics problems from the Korean CSAT (College Scholastic Ability Test) and documenting the solutions on GitHub. Each problem is solved individually, with detailed explanations of the steps involved. The goal of this project is to provide a comprehensive collection of math problem solutions, which can serve as a valuable resource for anyone interested in improving their problem-solving skills.
