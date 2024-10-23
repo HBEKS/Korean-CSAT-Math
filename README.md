@@ -14,7 +14,6 @@ CSAT math problems are known for enhancing logical thinking and mathematical abi
 - `problems/`: Contains math problems categorized by subject.
 - `solutions/`: Contains the corresponding solutions for each problem.
 - `README.md`: Project overview and guide.
-- `requirements.txt`: (Optional) List of required packages for code execution.
 
 ## How to Use
 1. Each problem is stored in the `problems/` folder, organized by subject. You can find the corresponding solution in the `solutions/` folder.
