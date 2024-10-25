@@ -263,10 +263,10 @@ Find the expected value $E(Y)$. [3 points]
 
 28. There is one box and two trays, A and B. In the box are four cards numbered 1, 2, 3, and 4, and tray A initially contains two black marbles. Tray B is empty. This experiment is repeated using the box and the two trays as follows:
 
-  1. Draw one card from the box, check its number, and return the card to the box.
-  2. If the number is 1, place one marble in tray A.
-  3. If the number is 2 or 3, move one marble from tray A to tray B.
-  4. If the number is 4, move two marbles from tray A to tray B.
+  - Draw one card from the box, check its number, and return the card to the box.
+  - If the number is 1, place one marble in tray A.
+  - If the number is 2 or 3, move one marble from tray A to tray B.
+  - If the number is 4, move two marbles from tray A to tray B.
 
 After repeating this process 4 times, what is the probability that tray B contains exactly 2 black marbles, given that tray B contains at least 1 black marble? [4 points]
 
@@ -428,9 +428,9 @@ the perpendicular from $H$ to $AB$ meets line $C$ at point $B_1$. If $F$ is on l
 
 29. Given a positive constant $c$, points $F(c, 0)$ and $F'(-c, 0)$ are the foci of an ellipse with a semi-major axis of length 6. Find the sum of all possible values of $c$ that satisfy the following conditions for two distinct points $P$ and $Q$:
 
-  1. Point $P$ lies on the coordinate plane, and point $Q$ is on line $PP'$.
-  2. Triangle $PP'F$ is an isosceles triangle.
-  3. The perimeter of triangle $PQF$ is 28.
+  - Point $P$ lies on the coordinate plane, and point $Q$ is on line $PP'$.
+  - Triangle $PP'F$ is an isosceles triangle.
+  - The perimeter of triangle $PQF$ is 28.
 
 [4 points]
 
