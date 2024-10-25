@@ -438,8 +438,8 @@ the perpendicular from $H$ to $AB$ meets line $C$ at point $B_1$. If $F$ is on l
 
 30. In the coordinate plane, there is an equilateral triangle $ABC$ with a side length of 4. Points $D$, $E$, and $F$ are located by dividing segments $AB$, $BC$, and $CA$ in the ratio of 1:3, respectively, and point $P$ is located by dividing $CA$ in the same ratio. Points $P$, $Q$, $R$, and $X$ satisfy the following conditions:
 
-1. $|DP| = |BQ| = |FR| = 1$
-2. $AX = PB + QC + RA$
+  - $|DP| = |BQ| = |FR| = 1$
+  - $AX = PB + QC + RA$
 
 If the value of $|AX|$ is maximized, and the area of triangle $PQR$ is $S$, find the value of $165 \times S$. [4 points]
 
